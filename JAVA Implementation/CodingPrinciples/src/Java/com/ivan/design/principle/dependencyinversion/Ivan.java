@@ -10,7 +10,7 @@ public class Ivan {
         System.out.println("Ivan study Java Course");
     }
 
-    public void StudyPrythonCourse(){
+    public void StudyPythonCourse(){
         System.out.println("Ivan study Python Course");
     }
 }
