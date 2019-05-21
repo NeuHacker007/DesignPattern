@@ -2,12 +2,12 @@ package com.ivan.design.principle.dependencyinversion;
 
 public class Ivan {
 
-    private ICourse iCourse;
-
-    public Ivan(ICourse iCourse){
-
+    // setter injection
+    public void setiCourse(ICourse iCourse) {
         this.iCourse = iCourse;
     }
+
+    private ICourse iCourse;
 
     public void StudySDECourse(){
         this.iCourse.StudyCourse();
