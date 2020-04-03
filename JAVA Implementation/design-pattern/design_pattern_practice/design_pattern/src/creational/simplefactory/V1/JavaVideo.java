@@ -1,4 +1,4 @@
-package creational.simplefactory;
+package creational.simplefactory.V1;
 
 public class JavaVideo implements Video {
     @Override

@@ -1,4 +1,4 @@
-package creational.simplefactory;
+package creational.simplefactory.V2;
 
 public class PythonVideo implements Video {
 
