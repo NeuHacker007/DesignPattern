@@ -1,4 +1,4 @@
-package creational.singleton.lazy;
+package creational.singleton.lazy.unsafeThreadImplementation;
 
 public class LazySingleton {
     private static LazySingleton lazySingleton = null;

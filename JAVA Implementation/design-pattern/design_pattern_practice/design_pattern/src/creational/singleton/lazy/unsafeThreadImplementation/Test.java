@@ -1,4 +1,4 @@
-package creational.singleton.lazy;
+package creational.singleton.lazy.unsafeThreadImplementation;
 
 public class Test {
     public static void main(String[] args) {
