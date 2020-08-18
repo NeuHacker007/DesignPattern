@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/JAVA Implementation/CodingPrinciples/.idea/*.xml
+/JAVA Implementation/CodingPrinciples/out/production/CodingPrinciples/META-INF/*.kotlin_module
+/Notes/DesignPattern/*.onetoc2
+/Notes/DesignPattern/*.one
