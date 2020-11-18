@@ -352,3 +352,4 @@ MigrationBackup/
 /JAVA Implementation/CodingPrinciples/out/production/CodingPrinciples/META-INF/*.kotlin_module
 /Notes/DesignPattern/*.onetoc2
 /Notes/DesignPattern/*.one
+/.idea/*.gitignore
